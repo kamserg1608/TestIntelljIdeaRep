@@ -23,6 +23,7 @@
 hs_err_pid*
 
 #files idea
-
 *.iml
 .idea/*
+out/*
+
